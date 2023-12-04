@@ -1,0 +1,15 @@
+C:\Users\aleks\кантрольная работа\bin\Debug\net6.0\кантрольная работа.exe
+C:\Users\aleks\кантрольная работа\bin\Debug\net6.0\кантрольная работа.deps.json
+C:\Users\aleks\кантрольная работа\bin\Debug\net6.0\кантрольная работа.runtimeconfig.json
+C:\Users\aleks\кантрольная работа\bin\Debug\net6.0\кантрольная работа.dll
+C:\Users\aleks\кантрольная работа\bin\Debug\net6.0\ref\кантрольная работа.dll
+C:\Users\aleks\кантрольная работа\bin\Debug\net6.0\кантрольная работа.pdb
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.csproj.AssemblyReference.cache
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.AssemblyInfoInputs.cache
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.AssemblyInfo.cs
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.csproj.CoreCompileInputs.cache
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.dll
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\ref\кантрольная работа.dll
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.pdb
+C:\Users\aleks\кантрольная работа\obj\Debug\net6.0\кантрольная работа.genruntimeconfig.cache
